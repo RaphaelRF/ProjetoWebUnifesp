@@ -1,0 +1,145 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.linhaUmIndex {
+	background-color: #ffd700
+}
+
+.menu {
+	background: none;
+}
+
+.top {
+	background-color: #000;
+}
+
+.login_form{
+	background-color: #000;
+	font-size: 30px;
+	padding-top: 120px;
+	padding-bottom: 70px;
+
+}
+
+.botao{
+	border:1px solid #25692A;
+	border-radius:10px;
+	display:inline-block;
+	cursor:pointer;
+	font-family:Verdana;
+	font-weight:bold;
+	font-size:13px;
+	padding:10px 12px;
+	text-decoration:none;
+	background-color: #ffd700 
+}
+
+.linha_cadastro{
+	padding-right: 100px;
+	background-color: black;
+	padding-top: 120px;
+	padding-bottom: 70px;
+	padding-left: 50px;
+}
+
+.cris{
+	padding: 0;
+	background-color: black;
+}
+
+.erro{
+	padding-left: 50px;
+}
+
+.bemvindo{
+	background-color: #000;
+	font-size: 50px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-left: 100px;
+	padding-right: 100px;
+	margin-bottom: 0;
+}
+
+.acoes{
+	background-color: black;
+	font-size: 20px;
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-top: 50px;
+}
+
+.botao1{
+	border:1px solid #25692A;
+	border-radius:10px;
+	display:inline-block;
+	cursor:pointer;
+	font-family:Verdana;
+	font-weight:bold;
+	font-size:20px;
+	padding:25px 30px;
+	text-decoration:none;
+	background-color: #ffd700 
+}
+
+.desejo{
+	background-color: black;
+	font-size:100px;
+}
+
+.ins_form{
+
+	background-color: #000;
+	font-size: 16px;
+	padding-top: 0px;
+	padding-bottom: 70px;
+
+}
+.insira{
+	padding-right: 0px;
+	background-color: black;
+	padding-top: 10px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+
+}
+
+.ins_form_exc{
+	background-color: #000;
+	font-size: 37px;
+	padding-top: 0px;
+	padding-bottom: 70px;
+}
+
+.ins_form_vis{
+	background-color: #000;
+	font-size: 45px;
+	padding-top: 0px;
+	padding-bottom: 165px;
+}
+
+.tabela{
+	width: 100%;
+	background-color: black;
+	font-size: 35px;
+	color: white;
+}
+
+.corpo{
+	background-color: black;
+}
+
+.grama{
+	padding-right: 10px;
+	padding-left: 11px;
+}
+
+.contato{
+	padding-right: 110px;
+}
+
+
+
+
